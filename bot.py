@@ -14,8 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 
-username = "kaanalper"
-password = "Alpero2001"
+username = "your username"
+password = "your password"
 
 CrnArr = [20222,
             20225,
